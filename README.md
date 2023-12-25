@@ -58,4 +58,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Please note that this README file is a general template, and you may need to modify it based on the specific structure and requirements of the Python Set Functions project.
